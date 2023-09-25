@@ -1,6 +1,6 @@
 # random-kelompok
 Tools Requirement : 
-- Bun 1.0.1+
+- Bun v1.0.1+ or NodeJS v19+ or Deno v8+
 
 #### to install use ```bun install```
 #### to generate list use ```bun genUser.js```
